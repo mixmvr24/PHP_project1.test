@@ -1,0 +1,10 @@
+{
+    "name": "vagrant/project1",
+    "description": "testHM",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {}
+}
